@@ -98,8 +98,8 @@ zeroTagCounter:
   other: "No tags"
 
 categoryCounter:
-  one: "{{ .Count }} Category In Total"
-  other: "{{ .Count }} Categories In Total"
+  one: "{{ .Count }} category"
+  other: "{{ .Count }} categories"
 
 zeroCategoryCounter:
   other: "No categories"
