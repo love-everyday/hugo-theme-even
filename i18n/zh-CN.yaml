@@ -70,6 +70,9 @@ outdatedInfoWarningAfter:
 author:
   other: "文章作者"
 
+createAt:
+  other: "创建时间"
+
 lastMod:
   other: "上次更新"
 

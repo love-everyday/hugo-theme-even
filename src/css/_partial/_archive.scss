@@ -41,6 +41,7 @@
   .archive-post {
     padding: $archive-post-padding;
     border-left: $archive-post-border-left;
+    transition: $archive-post-hover-transition;
 
     .archive-post-time {
       margin-right: 10px;

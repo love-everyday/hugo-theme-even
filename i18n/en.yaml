@@ -70,6 +70,9 @@ outdatedInfoWarningAfter:
 author:
   other: "Author"
 
+createAt:
+  other: "CreateAt"
+
 lastMod:
   other: "LastMod"
 

@@ -16,7 +16,11 @@ body {
   color: $global-font-color;
   background: $global-background;
   scroll-behavior: smooth;
-  border-top: 3px solid $theme-color;
+  line-height: 1.8;
+}
+
+pre {
+  line-height: 1.2;
 }
 
 @include max-screen() {
